@@ -1,0 +1,25 @@
+Problem 1: Epoch Limit = 200, Particle Number = 30, Inertia = 1.00, Cognition = 2.00, Social = 2.00
+Convergence at epoch: 200
+Error: X(0.310275) Y(0.347804)
+Best at (19.9997, 6.99335)
+
+Problem 1: Epoch Limit = 200, Particle Number = 30, Inertia = 1.00, Cognition = 2.00, Social = 2.00
+Convergence at epoch: 200
+Error: X(0.35768) Y(0.334162)
+Best at (19.9964, 7.00302)
+
+Problem 1: Epoch Limit = 200, Particle Number = 30, Inertia = 1.00, Cognition = 2.00, Social = 2.00
+Convergence at epoch: 200
+Error: X(0.330368) Y(0.33948)
+Best at (20.0085, 7.00253)
+
+Problem 1: Epoch Limit = 200, Particle Number = 30, Inertia = 1.00, Cognition = 2.00, Social = 2.00
+Convergence at epoch: 200
+Error: X(0.369528) Y(0.449101)
+Best at (19.9915, 7.00657)
+
+Problem 1: Epoch Limit = 200, Particle Number = 30, Inertia = 1.00, Cognition = 2.00, Social = 2.00
+Convergence at epoch: 200
+Error: X(0.414307) Y(0.346671)
+Best at (20.0005, 7.00638)
+
